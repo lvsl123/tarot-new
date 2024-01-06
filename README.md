@@ -1,4 +1,5 @@
 # please view the text in code ^^;
+# blog http://lvslprogramming.wordpress.com
 <!DOCTYPE html>
 <html>
   <head>
