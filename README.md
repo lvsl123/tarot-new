@@ -1,7 +1,7 @@
 # please view the text in code ^^;
 # blog http://lvslprogramming.wordpress.com
-# code (not download but preview) https://plnkr.co/plunk/Zf9wlMsBljtKGvt9
-# till I find a way to put them all here
+# code preview: https://plnkr.co/plunk/Zf9wlMsBljtKGvt9
+# 
 <!DOCTYPE html>
 <html>
   <head>
