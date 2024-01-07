@@ -1,7 +1,7 @@
 # please view the text in code ^^;
 # blog http://lvslprogramming.wordpress.com
 # code preview: https://plnkr.co/plunk/Zf9wlMsBljtKGvt9
-# 
+# descriptions will not be upgraded anymore - 2024/01/07. Wish a late happy new year
 <!DOCTYPE html>
 <html>
   <head>
