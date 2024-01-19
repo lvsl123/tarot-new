@@ -4,7 +4,7 @@
 # descriptions will not be upgraded anymore despite its half broken state. - 2024/01/07. Wish a late happy new year
 Special features: 
 - Unlike physical cards, cards picked can repeat itself so long as the repeat checkbox is selected. Suitable for readings that emphasis on extra fine focus that is very narrow to begin with, and needing more than just a few cards.
-- Fits with all mobile devices as card colors can both be inverted and hue rotated even after the cards are picked. And if you are unhappy with the color, you can press the buttons again to invert/hue-rotate them back
+- Suitable for those who view their pages at night as card colors can both be inverted and hue rotated even after the cards are picked. And if you are unhappy with the color, you can press the buttons again to invert/hue-rotate them back
 - Reverse card feature is here anyways for those who prefer it.
 - I can't write anything more than the major arcana unfortunately. But if you would prefer, you can take this work and come up with your additional descriptions.
 
