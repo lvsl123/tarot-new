@@ -4,7 +4,7 @@
 # descriptions will not be upgraded anymore despite its half broken state. - 2024/01/07. Wish a late happy new year
 Special features: 
 - Unlike physical cards, cards picked can repeat itself so long as the repeat checkbox is selected. Suitable with readings that emphasis on extra fine focus that is very narrow to begin with.
-- Fits with all mobile devices as card colors can both be inverted and hue rotated even after the cards are picked
+- Fits with all mobile devices as card colors can both be inverted and hue rotated even after the cards are picked. And if you are unhappy with the color, you can press the buttons again to invert/hue-rotate them back
 - Reverse card feature is here anyways for those who prefer it.
 
 Anything including both the program and the description there are written by me and is nothing secret. Meaning you can copy it, modify it or even publish it. And I will not give a damn about where you will put them or share them. In fact if you have a good use of it, I would rather you to have it as public as it can possibly be because chances are they are already covered in tarot books. As a result, this will merely be something that confirms to your senses and make things clearer to you. If there was bad things that were done with this knowledge, it would have been done already and it is already too late to withhold it. 
