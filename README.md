@@ -3,7 +3,7 @@
 # code preview: https://plnkr.co/plunk/Zf9wlMsBljtKGvt9
 # descriptions will not be upgraded anymore despite its half broken state. - 2024/01/07. Wish a late happy new year
 Special features: 
-- Unlike physical cards, cards picked can repeat itself so long as the repeat checkbox is selected. Suitable with readings that emphasis on extra fine focus that is very narrow to begin with.
+- Unlike physical cards, cards picked can repeat itself so long as the repeat checkbox is selected. Suitable with readings that emphasis on extra fine focus that is very narrow to begin with, and needing more than just a few cards.
 - Fits with all mobile devices as card colors can both be inverted and hue rotated even after the cards are picked. And if you are unhappy with the color, you can press the buttons again to invert/hue-rotate them back
 - Reverse card feature is here anyways for those who prefer it.
 
