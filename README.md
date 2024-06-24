@@ -3,7 +3,8 @@ Your best bet now is to either stick with the website version of this code previ
 "host" the page somewhere using a web server.
 
 Fortunately, you can always "host" a local webpage on your computer that is intended 
-for yourself only and use a browser to open the file from there instead.
+for yourself only and use a browser to open the file from there instead. By doing so the 
+browser will see the local file as a web page and will gratefully honour your request
 
 # please view the text in code ^^;
 # blog (major arcana only) http://lvslprogramming.wordpress.com
