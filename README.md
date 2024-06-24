@@ -1,3 +1,10 @@
+Note: Modern browsers no longer open any local html files for view. 
+Your best bet now is it either stick with the website version of the same preview or 
+"host" the page somewhere using a web server.
+
+Fortunately, you can always "host" a local webpage on your computer that is intended 
+for yourself only and use a browser to open the file from there instead.
+
 # please view the text in code ^^;
 # blog (major arcana only) http://lvslprogramming.wordpress.com
 # code preview: https://plnkr.co/plunk/Zf9wlMsBljtKGvt9
