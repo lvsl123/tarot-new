@@ -6,6 +6,10 @@ Fortunately, you can always "host" a local webpage on your computer that is inte
 for yourself only and use a browser to open the file from there instead. By doing so the 
 browser will see the local file as a web page and will gratefully honour your request
 
+Another method is to open an account in plnkr.co like I did and directly folk the copy of my 
+code and save it for your own use. The link can be shared this way even if the webpage is set
+to be private only
+
 # please view the text in code ^^;
 # blog (major arcana only) http://lvslprogramming.wordpress.com
 # code preview: https://plnkr.co/plunk/Zf9wlMsBljtKGvt9
