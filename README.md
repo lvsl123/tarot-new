@@ -1,5 +1,5 @@
 Note: Modern browsers no longer open any local html files for view. 
-Your best bet now is it either stick with the website version of the same preview or 
+Your best bet now is to either stick with the website version of this code preview or
 "host" the page somewhere using a web server.
 
 Fortunately, you can always "host" a local webpage on your computer that is intended 
