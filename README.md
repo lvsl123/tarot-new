@@ -1,7 +1,4 @@
-<!doctype html>
 
-<html>
-  <head>
     <link rel="stylesheet" href="lib/style.css">
 
   </head>
@@ -46,7 +43,3 @@
     <script>
       // console.log("test console", null);
     </script>
-
-  </body>
-</html>
-
