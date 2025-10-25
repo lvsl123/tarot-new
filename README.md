@@ -1,6 +1,6 @@
 Edit: 2025/10/31
 - Previously I edited the code to add the Display All Cards button
-- Added names for tree of life for data/treeoflife.js.
+- Added names for tree of life for data/treeoflife.js. 
 - The result of the reading will now print the name of the correspending tree of life name and number
 
 For preview please go here: \
